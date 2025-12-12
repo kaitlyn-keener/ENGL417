@@ -1,0 +1,46 @@
+* {
+    background-color: #FFE6A7;
+}
+body {
+    color: #432818;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+}
+h2 {
+    font-weight: bold;
+    margin-top: 50px;
+}
+p {
+    margin-top: 50px;
+}
+table {
+    color: #FFE6A7;
+    border-collapse: collapse;
+    width: 500px;
+    height: auto;
+}
+th, td {
+    background-color: #99582A;
+    border-bottom: 2px solid #432818;
+    padding: 20px;
+    text-align: left;
+}
+th {
+    background-color: #6F1D1B;
+}
+a:link {
+    color: forestgreen;
+    text-decoration: none;
+}
+a:hover {
+    color: darkred;
+    text-decoration: none;
+}
+a:visited {
+    color: indianred;
+    text-decoration: none;
+}
